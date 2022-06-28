@@ -1,8 +1,4 @@
 #!/bin/bash
-
-# CHRISTINA CHAN
-# LAURA BROOKS
-
 # weekly script
 
 # run daily script 5 times (with different transactions)
