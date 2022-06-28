@@ -1,8 +1,4 @@
 #!/bin/bash                                                                                                                   
-
-# LAURA BROOKS                                                                                                   
-# CHRISTINA CHAN                                                                                                  
-
 # testing functionality of script                                                                                             
 # for every file in the TESTS directory:                                                                                      
 #   open file, that has test inputs                                                                                           
