@@ -1,6 +1,3 @@
-# CHRISTINA CHAN
-# LAURA BROOKS
-
 import Queue
 import re
 
