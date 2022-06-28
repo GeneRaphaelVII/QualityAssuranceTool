@@ -1,8 +1,4 @@
 #!/bin/bash
-
-# CHRISTINA CHAN
-# LAURA BROOKS
-
 # daily script
 
 # runs our front end over a set of transactions in SESH directory
